@@ -1,9 +1,11 @@
 # ML-Deployment Corporation Favorita Retail Sales to App
+
 Introduction
-ML to App Project
+
 This project deploys a regression ML on Corporation Favorita Sales into a Web App using streamlit.This project's aim is to learn how to embeded an ML model into a web app with a user-friendly interface, in this case, Streamlit to have an interface that makes it easier for users to interact with an ML model, regardless of prior knowledge in machine learning.
 
 Process Description
+
 The process begins with exporting the necessary items from the notebook, building an interface that works correctly, importing the necessary items for modelling, and then writing the code to process inputs. The process can therefore be summarized as:
 
 Export machine learning items from notebook,
@@ -17,6 +19,7 @@ Submit the processed values to the ML model to make the predictions,
 Process the predictions obtained and display them on the interface.
 
 Setup
+
 To setup this project, you need to have Python3 on your system. Then you can clone this repo and being at the repo's root :: repo_name> ... follow the steps below:
 
 Windows:
